@@ -2,13 +2,20 @@ Password Complexity Checker & Compliant Password Generator
 A lightweight, user‑friendly Python tool for evaluating password strength and generating compliant, high‑entropy passwords. Built with security best practices, this utility helps users create stronger passwords and see how their existing ones measure up.
 
 ✨ Features
+
 Interactive menu system
+
 Check passwords, generate new ones, or exit, all from a simple looped interface.
 •  Password complexity checker
+
 Validates passwords against:
+
 •  Minimum length (12+ characters)
+
 •  Uppercase letters
+
 •  Lowercase letters
+
 •  Digits
 •  Special characters
 •  Compliant password generator
