@@ -6,6 +6,7 @@ A lightweight, user‑friendly Python tool for evaluating password strength and 
 Interactive menu system
 
 Check passwords, generate new ones, or exit, all from a simple looped interface.
+
 •  Password complexity checker
 
 Validates passwords against:
