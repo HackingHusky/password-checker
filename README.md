@@ -73,14 +73,26 @@ The tool will evaluate the generated password using the same rules.
 
 
 🧠 How It Works
+
 The script uses Python’s built‑in, and  modules to:
+
 •  Validate password structure
+
 •  Randomly generate secure passwords
+
 •  Avoid problematic or ambiguous characters
+
 •  Provide clear, actionable feedback
+
 Everything is modular, so it is easy to extend with:
+
 •  Entropy scoring
+
 •  Logging
+
 •  CLI flags
+
 •  JSON output
+
 •  Integration into larger security tools
+
