@@ -16,18 +16,31 @@ Validates passwords against:
 
 •  Lowercase letters
 
+
 •  Digits
+
 •  Special characters
+
 •  Compliant password generator
+
 Produces strong, enterprise‑friendly passwords:
+
 •  Avoid ambiguous characters
+
 •  Include at least one character from each required category
+
 •  Use a safe, compatible punctuation set
+
 •  Default to 14 characters (configurable)
+
 •  Clear feedback
+
 If a password fails any requirement, the tool explains why.
+
 •  Looping mode
+
 Users can check or generate multiple passwords without restarting the script.
+
 
 📦 Installation
 Clone the repository:
@@ -42,13 +55,21 @@ No external dependencies are required; everything uses Python’s standard libra
 You’ll see a menu like:
 
 🔍 Check a password
+
 Enter option 1, then type any password you want to evaluate.
+
 The tool will display:
+
 •  Overall strength
+
 •  Detailed feedback on missing requirements
+
 🔧 Generate a compliant password
+
 Enter option 2 to generate a secure, compliant password.
+
 The tool will evaluate the generated password using the same rules.
+
 
 🧠 How It Works
 The script uses Python’s built‑in, and  modules to:
